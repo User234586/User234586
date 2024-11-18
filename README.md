@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently working on being the most striving person I can be!
 <!--
 **User234586/User234586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
