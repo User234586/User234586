@@ -16,16 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ordered List
- 1. First List
- 2. Second List
-    1. Sublist 2.1
-    2. Sublist 2.2
-
- Unordered List
- * List 1
- * List 2
-    + Sublist 1.2
-    + Sublist 2.2
- - Item a
- - item b
