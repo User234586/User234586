@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently working on being the most striving person I can be!
+I'm dedicated to constantly evolving and striving to become the best version of myself, embracing growth and challenges every step of the way!
 <!--
 **User234586/User234586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
